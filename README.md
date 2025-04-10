@@ -22,11 +22,10 @@ This is the general breakdown of how I tackled the problem:
 ## Files included in this repo 📁
 
 - `modulated_noisy_audio.wav` – the original noisy signal
-- `recovered_audio.wav` – first demodulated version
 - `recovered_audio_clean.wav` – final cleaned-up audio
 - `analyze_and_filter.py` – for plotting the time domain and FFT of the original signal
 - `demodulate_audio.py` – handles the bandpass filtering and envelope detection
-- `clean_demodulation.py` – applies low-pass filtering for extra noise reduction
+  
 
 ---
 
