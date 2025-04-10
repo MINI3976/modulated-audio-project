@@ -32,10 +32,9 @@ This is the general breakdown of how I tackled the problem:
 ## Plots you’ll see 🖼️
 
 Inside the `/plots` folder, you'll find:
-- `fft_spectrum.png` – shows the frequency content of the noisy signal
-- `bandpass_filtered.png` – the signal after filtering around the carrier frequency
-- `demodulated_signal.png` – raw envelope after Hilbert transform
-- `envelope_raw_vs_clean.png` – shows the difference before and after low-pass filtering
+- `fourior tranform.png` – shows the frequency content of the noisy signal
+- `sound time.png` – the signal after filtering around the carrier frequency
+
 
 ---
 
